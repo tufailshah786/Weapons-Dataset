@@ -75,7 +75,7 @@ The information will be saved like this in the `.txt` file:
 
 <img src="https://github.com/tufailshah786/Weapons-Detection-with-YOLOV3/blob/main/faster_txt.png" width="500" height="500"><br/><br/>
 ## 2) Angle-Oriented Dataset
-This dataset consist of total 7801 images of weapons. There are two classes included in our dataset one is "Gun" and other is "Pistol". The given Dataset contain total 5512 instances of "Gun" and 4031 instances of "Pistol". We have also prepared the different formats of this dataset because each model have its own format of for training.
+This dataset consist of total 7801 images of weapons. There are two classes included in our dataset one is "Gun" and other is "Pistol". The given Dataset contain total 5512 instances of "Gun" and 3739 instances of "Pistol". We have also prepared the different formats of this dataset because each model have its own format of for training.
 
 The <strong>roLabelImg</strong> tool is used for the prparation of annotation file. You can see the tool [HERE](https://github.com/cgvict/roLabelImg).
 The XML file is generated through this tool which is shown below:
